@@ -1,0 +1,7 @@
+{
+  "name": "fuerzaVtestIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
